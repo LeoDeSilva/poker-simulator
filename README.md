@@ -3,4 +3,8 @@ simulates every game of poker with a given hand and rates it based on the number
 Suit input values = H,C,S,D,\
 card value input values = 2-14 (aces high)\
 num of players = 1-4,\
-all Yes/No questions = Y/N,
+all Yes/No questions = Y/N,\
+Commands:\
+r - run\
+q - quit\
+cs - clear screen
